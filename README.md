@@ -25,4 +25,4 @@ fun samplePresenter(): State
 公式： https://github.com/slackhq/circuit <br>
 公式github: https://slackhq.github.io/circuit/ <br>
 公式サンプル実装: https://github.com/slackhq/circuit/tree/main/samples<br>
-githubで探したプロジェクトサンプル：　https://github.com/yveskalume/compose-circuit-casestudy , https://github.com/chrisbanes/tivi/tree  <br>
+githubで探したプロジェクトサンプル：　https://github.com/yveskalume/compose-circuit-casestudy , https://github.com/chrisbanes/tivi/tree, @CircuitInjectをhiltで利用しているサンプル：https://github.com/Adventech/sabbath-school-android/blob/e0c80ed31d988049ba762de952d0b28df814b8e9/app-tv/src/main/kotlin/app/ss/tv/MainActivity.kt  <br>
